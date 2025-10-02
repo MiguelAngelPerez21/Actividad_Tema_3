@@ -31,6 +31,7 @@ Ejecuta el siguiente comando:
 
 cmd
 java -jar Aleatorios.jar | java -jar ordenarNuemeros.jar
+
 🔹 Qué sucede
 java -jar Aleatorios.jar genera los números aleatorios y los envía a su salida estándar.
 
